@@ -9,3 +9,7 @@ Another change for another feature
 Merge testing feature
 
 More merge testing feature
+
+Rebase testing feature
+
+More rebase testing feature
