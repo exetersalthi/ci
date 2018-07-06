@@ -7,3 +7,5 @@ First change for your new feature implementation
 Another change for another feature
 
 Merge testing feature
+
+More merge testing feature
