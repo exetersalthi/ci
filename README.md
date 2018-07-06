@@ -5,3 +5,5 @@ For information on how to use this repository, see [Build your ASP.NET Core app]
 First change for your new feature implementation
 
 Another change for another feature
+
+Merge testing feature
