@@ -40,6 +40,8 @@ namespace dotnetcore_sample
 					
 					// production hotfix 3
 					
+					// production hotfix 4
+					
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
 
