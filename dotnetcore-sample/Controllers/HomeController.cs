@@ -22,7 +22,7 @@ namespace dotnetcore_sample.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Your contact page is here.";
 
             return View();
         }
